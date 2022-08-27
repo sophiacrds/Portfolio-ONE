@@ -11,6 +11,7 @@
 </div>
 
 ---
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/44093225/187044664-0aebd031-c2d9-4779-abc9-ed6aba51916e.png">
 
 Esse projeto foi desenvolvido no escopo da formação da trilha **<u>Front-End</u>**, idealizada pela Alura em parceria com a Oracle para o programa ONE - Oracle Next Education.
 
