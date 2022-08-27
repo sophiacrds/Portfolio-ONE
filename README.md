@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+<img align="right" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-one-logo.png"><br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Portfólio
 
-## Available Scripts
+## <div align="center">Alura Challenge | Oracle One | Challenge Front-End | <a href="https://www.alura.com.br/challenges/oracle-one-front-end/sprint01-do-figma-ao-html-e-css">Sprint 01 - Do Figma ao HTML e CSS </a><div>
 
-In the project directory, you can run:
+<div align="center">
+  <img src="https://img.shields.io/github/languages/count/sophiacrds/Encriptador-ONE">
+  <img src="https://img.shields.io/tokei/lines/github/sophiacrds/Encriptador-ONE">
+  <a href="https://www.linkedin.com/in/sophia-leão-733880101/" alt="Linkedin"><img src="https://img.shields.io/badge/-Sophia Leão-white?style=flat&logo=Linkedin&logoColor=black"></a>
+</div>
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Esse projeto foi desenvolvido no escopo da formação da trilha **<u>Front-End</u>**, idealizada pela Alura em parceria com a Oracle para o programa ONE - Oracle Next Education.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Proposta
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O desafio consiste na criação de um portfólio simples para fixação dos conhecimentos sobre HTML5 e CSS3. Como diferencial e para melhor performance, fiz o projeto em React.js.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## PREVIEW
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Versão destktop
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div align="center"> 
+  <img src="src/demos/demo-desktop.gif">
+</div>
 
-### `npm run eject`
+### Versão tablet
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<div align="center"> 
+  <img src="src/demos/demo-tablet.gif"> 
+</div>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Versão mobile
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+  <img src="src/demos/demo-mobile.gif">
+</div>
