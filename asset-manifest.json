@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/Portfolio-ONE/static/js/main.6b079a4b.js",
+    "static/media/movies.gif": "/Portfolio-ONE/static/media/movies.86f4822b28dd0b6115eb.gif",
+    "static/media/lolpage.gif": "/Portfolio-ONE/static/media/lolpage.2f7aa841df063d30009c.gif",
+    "static/media/encriptador.gif": "/Portfolio-ONE/static/media/encriptador.520736953f065dd7a2bb.gif",
+    "static/media/portflow.gif": "/Portfolio-ONE/static/media/portflow.eb35cf2bf88c760dc012.gif",
+    "static/media/flavo.gif": "/Portfolio-ONE/static/media/flavo.45939f7c9b25516a66bf.gif",
+    "static/media/calculadora.gif": "/Portfolio-ONE/static/media/calculadora.6fc35aa0e006d3f219fa.gif",
+    "static/media/contador.gif": "/Portfolio-ONE/static/media/contador.1fcd1240a51580b83315.gif",
+    "static/media/todo.gif": "/Portfolio-ONE/static/media/todo.0d39815ceb51a0c6fab7.gif",
+    "static/media/sophia.jpg": "/Portfolio-ONE/static/media/sophia.4a78d982d13b22a8aceb.jpg",
+    "static/media/contact.png": "/Portfolio-ONE/static/media/contact.b8d7b8a88eac857c16c7.png",
+    "static/media/vnw.png": "/Portfolio-ONE/static/media/vnw.4df009551d0ed3c3d59b.png",
+    "static/media/unir.png": "/Portfolio-ONE/static/media/unir.9de8ad7b89e5ff2aa72e.png",
+    "static/media/react.png": "/Portfolio-ONE/static/media/react.753f95b06915f4060855.png",
+    "static/media/github.png": "/Portfolio-ONE/static/media/github.5787e272c8ec0d9524b8.png",
+    "static/media/figma.png": "/Portfolio-ONE/static/media/figma.d2870eeaf0cc5587c4a4.png",
+    "index.html": "/Portfolio-ONE/index.html",
+    "static/media/linkedin.svg": "/Portfolio-ONE/static/media/linkedin.bb0d699f032d7ee91b4060e1c669e4f5.svg",
+    "main.6b079a4b.js.map": "/Portfolio-ONE/static/js/main.6b079a4b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6b079a4b.js"
+  ]
+}
